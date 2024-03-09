@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:14411",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "MICROSERVICE.AZ.Account": {
+      "commandName": "Project",
+      "launchUrl": "api/account",
+      "applicationUrl": "http://localhost:5002",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/api/account",
+      "environmentVariables": {
+        "CONFIG_CN_APP_EXTERNAL": "Endpoint=https://configuration-dmv.azconfig.io;Id=wwCL-l0-s0:l4Padatlp7TFXNfQ8Koo;Secret=RUWB2s8JlptNTKY4EFDu3iOeeCH6tCivG1iPDu46qdA=",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "publishAllPorts": true,
+      "httpPort": "5002"
+    }
+  }
+}

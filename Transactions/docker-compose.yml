@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  microservice.az.transaction:
+    image: ${DOCKER_REGISTRY-}microserviceaz
+    build:
+      context: .
+      dockerfile: MICROSERVICE.AZ.Transaction/Dockerfile

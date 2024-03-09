@@ -1,0 +1,42 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app-deployment-account
+  labels:
+    app: service-account
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: service-account
+  template:
+    metadata:
+      labels:
+        app: service-account
+    spec:
+      containers:
+      - name: app-account
+        image: containerregistrydmv.azurecr.io/account-app-repository:__Build.BuildId__
+        ports:
+        - containerPort: 80
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"
+        - name: CONFIG_CN_APP_EXTERNAL
+          value: "Endpoint=https://app-configuration-dmv.azconfig.io;Id=kmmR;Secret=RpoepvldXGlb1nGMafOlXaExxd8Xvn+TueQxYChsF0s="
+      imagePullSecrets:
+      - name: mysupersecret.key
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: app-service-account
+spec:
+  type: LoadBalancer
+  selector:
+    app: service-account
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 80
+    name: http

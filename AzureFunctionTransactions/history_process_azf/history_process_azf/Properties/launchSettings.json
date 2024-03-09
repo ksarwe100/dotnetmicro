@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "history_process_azf": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7129",
+      "launchBrowser": false
+    }
+  }
+}
