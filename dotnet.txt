@@ -1,0 +1,99 @@
+1. We are onboarding
+2. Skilling and Training
+3. Test Assesment  CL Level Wise
+4.Technical Audoit of the project
+
+Currently woring with CCA
+On Code quality issue
+
+
+Issues:
+
+1. Configuration of DMt Tool
+2.SonarQube coldesmells/defects /secuity hotspots needs to fix
+3. Code Review practrices/process when pushing to repository
+
+
+
+
+LM Certifications Internal
+CL6-Basic
+https://mymapit.in/#/publicview/test/candidate/token/c0JiMP5K
+
+CL5-Basic
+
+
+
+==============================================
+Unit test Creation for the PRoject 
+
+
+
+https://www.slideshare.net/rishabhsoft/rishabhs-microsoft-net-capabilities
+
+================================================================================
+https://docs.google.com/spreadsheets/d/15n2SWuuMF6GEGv8MtdVQokXfSEz61q8Fnj2uUZZ6vis/edit#gid=456007306
+
+Estimation WorkBook
+https://docs.google.com/spreadsheets/d/15n2SWuuMF6GEGv8MtdVQokXfSEz61q8Fnj2uUZZ6vis/edit#gid=456007306
+
+Azure DevOps
+https://medium.com/microsoftazure/creating-an-azure-devops-ci-cd-pipeline-for-your-kubernetes-microservice-application-450d90bf58df
+
+https://jayanttripathy.com/building-ci-cd-pipeline-using-azure-devops-part-2/
+https://medium.com/@sarshar.samoo/getting-started-with-ci-cd-pipelines-for-asp-net-core-api-using-azure-devops-1d637afd4e1f
+https://jayanttripathy.com/building-ci-cd-pipeline-using-azure-devops-part-2/
+
+https://jayanttripathy.com/building-ci-cd-pipeline-using-azure-devops-part-1/
+
+MLOPS in educations
+https://www.itransition.com/machine-learning/education
+
+1.APi will bring data from D2L
+2.AI Review  -->Api will post to Kadhal
+3. Will get the feedback comments
+
+3. APi will submit it to D2L and kadhal
+
+Grader Flow
+Grader will click to bring the data--APi will call
+correct the AI Grading 
+Save both to database
+Submit
+submit Grade to D2l
+
+=============================
+Student Flow
+Student will see the feedback and grade
+Student will give like
+======================================================================
+AWS Kubernetes
+
+https://itnext.io/continuous-deployment-to-kubernetes-eks-using-aws-codepipeline-aws-codecommit-and-aws-codebuild-fce7d6c18e83
+
+===============================================================================================================================
+Create AZURE DevOPS pipeline
+
+https://medium.com/@anjkeesari/create-azure-devops-pipeline-for-net-core-web-api-e0fa81632b37
+
+===========================================================================================================================
+https://medium.com/microtica/the-concept-of-domain-driven-design-explained-3184c0fd7c3f
+https://blog.axiomio.com/how-to-deploy-a-microservice-application-to-aws-eks-using-aws-code-commit-ebc7608635b3
+
+https://docs.google.com/spreadsheets/d/15n2SWuuMF6GEGv8MtdVQokXfSEz61q8Fnj2uUZZ6vis/edit#gid=456007306
+
+
+
+
+I require the server configuration/Architecture diagram for the one presale reuirement
+User-   Student, 
+        Admin,
+        Grader
+
+Cloud: AWS
+Microservices  with Docker/container
+
+Database : P:ostgresql/mySql server
+
+User: 
+****************
