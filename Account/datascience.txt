@@ -1,0 +1,79 @@
+Cloud Data Fusion
+Vertex AI
+Google cloud looker
+Matplolib
+
+https://towardsdatascience.com/giving-vertex-ai-the-new-unified-ml-platform-on-google-cloud-a-spin-35e0f3852f25
+
+https://medium.com/fourcast-premier-google-cloud-partner/google-data-fusion-63a45be48aa8
+
+MB 12811
+Hl 11*19
+kt 77
+sb-11*10
+mb2 12*10
+    t2-30
+t1-30
+Mt-46
+================================================================================================
+GCP CloudComposer Devops
+
+Google Cloud Composer CI/CD
+
+https://medium.com/@inistar/google-cloud-composer-ci-cd-f469a09c9db8
+
+=================================================================================================
+CloudComposer pipeline
+https://medium.com/@kolban1/cloud-composer-launching-dataflow-pipelines-38cd29e970d4
+https://cloud.google.com/composer/docs/how-to/using/using-dataflow-template-operator
+
+Jananeshwari
+https://www.youtube.com/watch?v=YRsP5xrEi34
+
+Microsoft .NET 7.0 release have the following points :--
+
+Performance
+System.Text.Json.Serialization 
+Regular Expressions 
+.Net Libraries
+Observability
+.Net SDK
+9561486624--Ashu Trainer
+
+I will require the last 6 months sprintwise data of single platfarm MME
+The data should consist  Code smells, security Hotspots, Code coverage, defect density, vulnerability
+I require this data to give Conpetency AVP
+
+Python Test1:
+https://mymapit.in/#/publicview/test/candidate/token/rz4VWx6d
+
+CICD Pipeline for Cloud composer(GCP)
+https://www.youtube.com/watch?v=PCg9AQNuK3E
+
+=============================================================
+Kafka cluster in GCp
+https://saikatsarker.medium.com/creating-a-containerized-kafka-cluster-in-gcp-compute-engine-vm-8d21ead6b00
+
+===========================================================================================================
+Azure DevOps
+
+https://www.linkedin.com/pulse/what-azure-devops-murat-mert-%25C5%259Fent%25C3%25BCrk/?trackingId=AHlByNX9R6Cd6TM15zrzXQ%3D%3D
+
+Azure Pipeline:
+https://www.linkedin.com/pulse/beyond-basics-diving-advanced-azure-pipelines-seamless-%2525C5%25259Fent%2525C3%2525BCrk/?trackingId=Ei9z0jGl0m4KhHVbh7Kwaw%3D%3D
+
+Azure Boards
+https://www.linkedin.com/pulse/beyond-basics-diving-advanced-azure-pipelines-seamless-%2525C5%25259Fent%2525C3%2525BCrk/?trackingId=Ei9z0jGl0m4KhHVbh7Kwaw%3D%3D
+
+Azure future after Githun Aquisition
+https://www.linkedin.com/pulse/azure-devops-future-after-github-acquisition-microsoft-antonio-alvino/
+
+===================================================================================================
+MERN
+https://blog.logrocket.com/mern-stack-tutorial/
+
+========================================================================================================
+I have given for unit test generation on Controller.
+Their expectation  is one scenario on BusinessLogic.
+I will connect to @Priti Pawar
+
